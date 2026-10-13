@@ -1,0 +1,3 @@
+route,delivered_orders,avg_delivery_days,late_pct,avg_freight
+Inter-state,61765,15.1,8.05,26.9
+Same state,34705,7.9,4.51,15.46

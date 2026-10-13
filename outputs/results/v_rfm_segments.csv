@@ -1,0 +1,8 @@
+segment,customers,pct_customers,avg_recency_days,avg_orders,avg_spend,total_revenue,pct_revenue
+Promising high-value,14395,15.42,92.0,1.0,302.16,4349521.35,28.21
+At risk high-value,13756,14.74,395.0,1.0,307.79,4234011.28,27.46
+Need attention,18064,19.35,220.0,1.0,151.98,2745417.82,17.8
+Hibernating,22590,24.2,396.0,1.0,72.7,1642364.01,10.65
+New customers,21744,23.29,90.0,1.0,72.91,1585411.18,10.28
+Loyal (repeat buyers),1600,1.71,320.0,2.08,297.91,476656.69,3.09
+Champions,1201,1.29,89.0,2.15,322.81,387700.52,2.51
